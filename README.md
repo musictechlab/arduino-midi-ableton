@@ -35,6 +35,10 @@ This project is an Arduino-based MIDI volume control system that uses two button
 2. Upload the code to the Arduino board.
 3. Press the buttons to increase or decrease the volume.
 
+### Video Demonstration
+
+For a video demonstration of the Arduino MIDI Volume Control, watch [this video](https://youtu.be/LP9jD-u7nt4).
+
 ## Dependencies
 
 - **MIDIUSB Library**: Ensure you have the MIDIUSB library installed in your Arduino IDE. You can install it via the Library Manager.
