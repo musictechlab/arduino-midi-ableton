@@ -2,6 +2,10 @@
 
 This project is an Arduino-based MIDI volume control system that uses two buttons to increase or decrease the volume. The system sends MIDI Control Change messages to adjust the volume level dynamically.
 
+## Video Demonstration
+[![Video Demonstration](screenshot.jpg)](https://youtu.be/LP9jD-u7nt4)
+
+
 ## Components
 
 - Arduino board (Leonardo)
@@ -9,6 +13,7 @@ This project is an Arduino-based MIDI volume control system that uses two button
 - MIDIUSB library
 - Ableton Live 12 (Trial version)
 - USB Cable
+- Arduino IDE
 
 ## Pin Configuration
 
@@ -35,10 +40,6 @@ This project is an Arduino-based MIDI volume control system that uses two button
 2. Upload the code to the Arduino board.
 3. Press the buttons to increase or decrease the volume.
 
-### Video Demonstration
-
-For a video demonstration of the Arduino MIDI Volume Control, watch [this video](https://youtu.be/LP9jD-u7nt4).
-
 ## Dependencies
 
 - **MIDIUSB Library**: Ensure you have the MIDIUSB library installed in your Arduino IDE. You can install it via the Library Manager.
@@ -49,5 +50,3 @@ This project is open-source and available under the MIT License. Feel free to mo
 
 ## Author
 Mariusz.Smenzyk@MusicTechLab.io
-
-# arduino-midi-ableton
